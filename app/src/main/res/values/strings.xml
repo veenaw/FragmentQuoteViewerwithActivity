@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentQuoteViewerWithActivity</string>
+    <string-array name="Titles">
+        <item>Swami Vivekananda</item>
+        <item>Lord Buddha</item>
+        <item>Mahatma Gandhi</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success, that is way great spiritual giants are produced</item>
+        <item>All that we are is the result of what we have thought. The mind is everything. What we think we become.</item>
+        <item>Earth provides enough to satisfy every mans need, but not every mans greed.</item>
+    </string-array>
+</resources>
